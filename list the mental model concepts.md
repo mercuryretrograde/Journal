@@ -1,0 +1,1 @@
+[[days thoughts list]] create a list of the mental model concepts from the books bought

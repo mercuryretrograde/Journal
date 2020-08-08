@@ -1,0 +1,80 @@
+{
+  "main": {
+    "id": "ec2c14c76dee74f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6602c9f7717320a",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "opinion list.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36be89a51e9627cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "329be8a69f7c8d2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "508bad35e65254b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d4cb11b4e4c0f012",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d1974cc05805de4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e93a4d0bb9538cbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65a3c0db7ebe9604",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "opinion list.md",
+    "document studies.md",
+    "2020-08-08 todo.md",
+    "days thoughts list.md",
+    "2020-08-08.md"
+  ]
+}
