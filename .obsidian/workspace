@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b3648d09dd0b8c21",
+        "id": "17ee4de5b80d554a",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "practice using GIT.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
