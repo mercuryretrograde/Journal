@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b6602c9f7717320a",
+        "id": "b3648d09dd0b8c21",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "opinion list.md",
+            "file": "practice using GIT.md",
             "mode": "source"
           }
         }
@@ -71,10 +71,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "opinion list.md",
-    "document studies.md",
-    "2020-08-08 todo.md",
+    "practice using GIT.md",
     "days thoughts list.md",
-    "2020-08-08.md"
+    "document studies.md",
+    "opinion list.md",
+    "mental models volume 1.md"
   ]
 }
