@@ -5,4 +5,5 @@
 - [x] git status
 - [x] git commit
 - [x] GIT save = escape-:-x 
-- [ ]  ran this command git remote add origin https://github.com/mercuryretrograde/Journal.git
+- [x]  git remote add origin https://github.com/mercuryretrograde/Journal.git
+- [x]  git push -u origin master
